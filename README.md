@@ -1,13 +1,15 @@
 # Наш DevOps проект
 
-## Описание проекта
-Здесь общее описание...
+
+## Описание проекt.
+This is a learning project focused on practicing DevOps tools and technologies.The project includes Linux,Git ,Docker , and Kubernetes. It helps team members improve their skills in version control, containerization, and basic DevOps workflows through practical tasks and teamwork
 
 ## Команда
-Асел Ысманова 
-Согдиана Арашева
+Asel Ysmanova-DevOps Engineer
+Sogdiana Arasheva-DevOps Engineer
 ## Стек технологий
-Здесь технологии...
+Docker
+Linux
 
 ## Инструкции по запуску
 Здесь шаги для запуска...
